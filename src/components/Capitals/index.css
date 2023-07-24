@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-color: #93c5fd;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+h1 {
+  font-family: 'roboto';
+}
+.selectingElement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+}
+.select-box {
+  height: 40px;
+  width: 150px;
+}
+p {
+  margin-left: 10px;
+}
